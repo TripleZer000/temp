@@ -1,0 +1,6 @@
+server="irc.evilcorp.ga"
+channel="lobby"
+nick="BotMerch"
+user="username hostname servername :realname"
+log="log.txt"
+password="password"
